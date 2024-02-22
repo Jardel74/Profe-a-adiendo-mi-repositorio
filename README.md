@@ -1,1 +1,2 @@
-# Profe-a-adiendo-mi-repositorio
+# Profe-a-añadiendo-mi-repositorio
+# Carlos Jardel Iriondo Banegas
